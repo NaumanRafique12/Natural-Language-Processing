@@ -1,0 +1,10 @@
+Flask
+numpy
+pandas
+sklearn
+scikit-learn==1.2.2
+streamlit
+xgboost
+fastapi
+uvicorn
+airtable-python-wrapper
