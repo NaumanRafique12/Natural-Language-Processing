@@ -1,0 +1,12 @@
+.What if our column contains outliers ,imbalance dataset or if we alter one categorical column into Ordinal Encoding instead of OHE which are
+the algorithms are not affected by above mentioned issues.
+
+.Tree Based algorithms are not affected by it . Weight base algorithm are affected by it
+.If one columns contains 2 values ,one value is of 90% and other values are in less amount , do you think this distribution will have a
+good correlation with output column.
+Ans: No ,Yes it's answer depend on data like OS can have great impact on that. No in other scenario like refresh_rate values in smartphones
+scenario
+
+.In which scenario Knn imputer works?
+Ans:-Like imputing rating column , because rating column is depending on other columns and knn
+imputer works in the same way to take assistance from its neighbors.
